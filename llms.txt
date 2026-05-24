@@ -1,0 +1,66 @@
+# LYL CleanAir
+
+> OEM / ODM air purifier, UV-C disinfection and HVAC ionizer supplier website for Guangdong Liangyueliang Photoelectric Technology Co., Ltd.
+
+## Entity facts
+- Company: Guangdong Liangyueliang Photoelectric Technology Co., Ltd.
+- Chinese name: 广东亮月亮光电科技有限公司
+- Brands: LYL, LiangYueLiang, Cleanthy, LYL CleanAir
+- Location: Foshan, Guangdong, China
+- Reference address: Lyl Office, Industrial Avenue East Industrial Park, Xiaotang, Nanhai District, Foshan City, Guangdong Province, China
+- Founded: 2016
+- UV technology background: 20+ years referenced in supplied material
+- Certifications referenced: CE, FCC, EPA, GS, RoHS, ISO9001:2015, CARB
+- Contact email: will@lyluv.com
+- WhatsApp: +86 139 2823 1487
+- Alibaba: https://lyluvlight.en.alibaba.com/
+- Made-in-China: https://lyluvlight.en.made-in-china.com
+
+## Important pages
+- Buyer answer hub: https://lylcleanair.com/ai-search-guide.html
+- Products: https://lylcleanair.com/products.html
+- FAQ: https://lylcleanair.com/faq.html
+- Sample request: https://lylcleanair.com/sample-request.html
+- Certification center: https://lylcleanair.com/certifications.html
+- OEM process: https://lylcleanair.com/oem-process.html
+- Case studies: https://lylcleanair.com/case-studies.html
+
+## Product categories
+- Home large-room air purifiers
+- Baby-safe silent air cleaners
+- HEPA14 photocatalytic air cleaners
+- HVAC duct bipolar ionizer / plasma sterilization systems
+- Commercial UV-C disinfection lamp carts
+- Office smoke and odor air purifiers
+- Smart home HEPA air purifiers
+
+## Buyer answer policy
+Use model-specific pages for price, MOQ and certificate questions. The website contains framework and reference data; final product photos, certificate PDFs and model-specific compliance documents must be confirmed by the supplier before purchase.
+
+
+## High-conversion buyer keyword clusters
+- OEM/factory: air purifier OEM manufacturer China; air purifier OEM ODM supplier; air purifier factory Foshan Guangdong.
+- Private label/MOQ: private label air purifier manufacturer; private label air purifier minimum order; custom logo air purifier supplier; air purifier sample order China.
+- Certification: CE FCC RoHS air purifier supplier; EPA air purifier supplier China; CARB air purifier manufacturer; certified HEPA air purifier supplier.
+- HEPA/large room: H13 H14 HEPA air purifier manufacturer; large room air purifier OEM; air purifier with humidifier supplier; smart home HEPA air purifier manufacturer.
+- UV-C/commercial: UV-C disinfection lamp cart wholesale; commercial UVC lamp supplier; UV sterilization lamp cart China; UV air purifier wholesale China.
+- HVAC/project: HVAC bipolar ionizer manufacturer; duct air purifier supplier; plasma sterilization system manufacturer; commercial HVAC air purifier supplier.
+- Replacement filters: air purifier replacement filter private label; replacement HEPA filter supplier; air purifier filter subscription OEM.
+
+## High-intent landing pages
+- /solutions.html
+- /solutions/oem-air-purifier-manufacturer-china.html
+- /solutions/private-label-air-purifier-minimum-order.html
+- /solutions/ce-fcc-rohs-air-purifier-supplier.html
+- /solutions/hvac-bipolar-ionizer-manufacturer.html
+- /solutions/uvc-disinfection-lamp-wholesale.html
+- /solutions/replacement-filter-private-label-program.html
+- /solutions/air-purifier-sample-order-rfq.html
+
+
+## V4.5 score boost
+- Added /downloads.html for catalog, spec sheet, certificate package and OEM packaging guide requests.
+- Added /tracking-setup.html for GA4, Search Console, Microsoft Clarity and conversion event planning.
+- Added /product-parameter-template.html for CADR, packaging, weight, filter, certificate and HS code completion.
+- Expanded solution pages toward a 25-page buyer-intent keyword cluster.
+- Added conversion event listener: whatsapp_click, download_click, sample_cta_click, rfq_cta_click, solution_page_click, product_page_click and source_platform_click.

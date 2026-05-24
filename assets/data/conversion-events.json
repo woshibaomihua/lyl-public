@@ -1,0 +1,44 @@
+{
+  "site_version": "v4.5-score-boost",
+  "recommended_tools": [
+    "Google Analytics 4",
+    "Google Search Console",
+    "Microsoft Clarity",
+    "Meta Pixel optional",
+    "LinkedIn Insight Tag optional"
+  ],
+  "events": [
+    {
+      "event": "whatsapp_click",
+      "purpose": "Measure instant sales intent"
+    },
+    {
+      "event": "rfq_cta_click",
+      "purpose": "Measure high-intent RFQ CTA clicks"
+    },
+    {
+      "event": "rfq_form_submit_attempt",
+      "purpose": "Measure RFQ form submissions before API response"
+    },
+    {
+      "event": "sample_request_submit_attempt",
+      "purpose": "Measure sample request form submissions"
+    },
+    {
+      "event": "download_click",
+      "purpose": "Track spec sheet, catalog and certificate downloads"
+    },
+    {
+      "event": "solution_page_click",
+      "purpose": "Track keyword landing-page navigation"
+    },
+    {
+      "event": "product_page_click",
+      "purpose": "Track product interest"
+    },
+    {
+      "event": "source_platform_click",
+      "purpose": "Track external verification via Made-in-China / Alibaba"
+    }
+  ]
+}

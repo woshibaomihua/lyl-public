@@ -1,0 +1,40 @@
+{
+  "required_fields_for_v5_real_product_pages": [
+    "Model",
+    "CADR",
+    "Coverage Area",
+    "Noise Level",
+    "Power",
+    "Voltage",
+    "Product Size",
+    "Carton Size",
+    "Net Weight",
+    "Gross Weight",
+    "Filter Type",
+    "UV Wavelength",
+    "Plug Type",
+    "Replacement Filter Model",
+    "Packing Quantity",
+    "MOQ",
+    "Price Tier",
+    "Lead Time",
+    "Certification by Model",
+    "HS Code"
+  ],
+  "image_gallery_required": [
+    "Main product image",
+    "Control panel close-up",
+    "Filter structure",
+    "Packaging",
+    "Factory/QC proof",
+    "Application scene"
+  ],
+  "buyer_fields_for_fast_quote": [
+    "Company",
+    "Target country",
+    "Quantity",
+    "Certification needed",
+    "Packaging/logo needs",
+    "Sample address"
+  ]
+}

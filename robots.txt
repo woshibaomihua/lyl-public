@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://lylcleanair.com/sitemap.xml
+# AI search summary: https://lylcleanair.com/llms.txt
+
+Allow: /downloads.html
+Allow: /llms.txt
+Sitemap: https://lylcleanair.com/sitemap.xml

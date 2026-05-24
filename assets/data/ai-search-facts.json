@@ -1,0 +1,156 @@
+{
+  "site_version": "V4.3 AEO/GEO framework",
+  "company": "Guangdong Liangyueliang Photoelectric Technology Co., Ltd.",
+  "chinese_name": "广东亮月亮光电科技有限公司",
+  "brands": [
+    "LYL",
+    "LiangYueLiang",
+    "Cleanthy",
+    "LYL CleanAir"
+  ],
+  "location": "Foshan, Guangdong, China",
+  "address": "Lyl Office, Industrial Avenue East Industrial Park, Xiaotang, Nanhai District, Foshan City, Guangdong Province, China",
+  "contact": {
+    "email": "will@lyluv.com",
+    "whatsapp": "+86 139 2823 1487"
+  },
+  "certifications_referenced": [
+    "CE",
+    "FCC",
+    "EPA",
+    "GS",
+    "RoHS",
+    "ISO9001:2015",
+    "CARB"
+  ],
+  "primary_intents": [
+    "air purifier OEM manufacturer China",
+    "private label air purifier MOQ",
+    "UV-C disinfection lamp wholesale China",
+    "HVAC bipolar ionizer manufacturer",
+    "air purifier sample request",
+    "air purifier certificate download"
+  ],
+  "key_pages": [
+    "/ai-search-guide.html",
+    "/products.html",
+    "/faq.html",
+    "/sample-request.html",
+    "/certifications.html",
+    "/oem-process.html",
+    "/case-studies.html"
+  ],
+  "limitations": "Real product photos, factory photos, certificate PDFs and verified case studies should be uploaded before final launch.",
+  "high_conversion_keywords": {
+    "OEM / ODM Factory Intent": {
+      "priority": "P0",
+      "keywords": [
+        "air purifier OEM manufacturer China",
+        "air purifier OEM ODM supplier",
+        "air purifier factory Foshan Guangdong",
+        "China air purifier manufacturer",
+        "OEM air cleaner supplier"
+      ],
+      "url": "/solutions/oem-air-purifier-manufacturer-china.html"
+    },
+    "Private Label + MOQ Intent": {
+      "priority": "P0",
+      "keywords": [
+        "private label air purifier manufacturer",
+        "private label air purifier minimum order",
+        "custom logo air purifier supplier",
+        "air purifier OEM sample order China",
+        "air purifier private label wholesale"
+      ],
+      "url": "/solutions/private-label-air-purifier-minimum-order.html"
+    },
+    "Certification / Compliance Intent": {
+      "priority": "P0",
+      "keywords": [
+        "CE FCC RoHS air purifier supplier",
+        "EPA air purifier supplier China",
+        "CARB air purifier manufacturer",
+        "HEPA air purifier CE FCC certified supplier",
+        "air purifier certification documents supplier"
+      ],
+      "url": "/solutions/ce-fcc-rohs-air-purifier-supplier.html"
+    },
+    "HEPA / Large Room Home Product Intent": {
+      "priority": "P1",
+      "keywords": [
+        "HEPA air purifier OEM supplier",
+        "H13 H14 HEPA air purifier manufacturer",
+        "large room air purifier OEM",
+        "air purifier with humidifier supplier",
+        "smart home HEPA air purifier manufacturer"
+      ],
+      "url": "/solutions/hepa-large-room-air-purifier-oem.html"
+    },
+    "UV-C Disinfection Wholesale Intent": {
+      "priority": "P1",
+      "keywords": [
+        "UV-C disinfection lamp cart wholesale",
+        "commercial UV-C disinfection lamp supplier",
+        "UV-C sterilization lamp cart China",
+        "200W UVC disinfection lamp supplier",
+        "UV air purifier wholesale China"
+      ],
+      "url": "/solutions/uvc-disinfection-lamp-wholesale.html"
+    },
+    "HVAC / Project Buyer Intent": {
+      "priority": "P0",
+      "keywords": [
+        "HVAC bipolar ionizer manufacturer",
+        "duct air purifier supplier",
+        "plasma sterilization system manufacturer",
+        "commercial HVAC air purifier supplier",
+        "air purifier for HVAC duct system"
+      ],
+      "url": "/solutions/hvac-bipolar-ionizer-manufacturer.html"
+    },
+    "Smoke / Odor / Office Channel Intent": {
+      "priority": "P1",
+      "keywords": [
+        "office air purifier wholesale",
+        "smoke odor air purifier supplier",
+        "hotel air purifier wholesaler",
+        "air purifier for smoke and odor wholesale",
+        "commercial office air cleaner supplier"
+      ],
+      "url": "/solutions/office-smoke-odor-air-purifier-wholesale.html"
+    },
+    "Baby / Bedroom / Quiet Mode Intent": {
+      "priority": "P2",
+      "keywords": [
+        "baby room air purifier OEM",
+        "quiet bedroom air purifier supplier",
+        "air purifier with child lock manufacturer",
+        "nursery air purifier private label",
+        "silent sleep mode air cleaner OEM"
+      ],
+      "url": "/solutions/baby-bedroom-air-purifier-oem.html"
+    },
+    "Replacement Filter Repeat-Order Intent": {
+      "priority": "P0",
+      "keywords": [
+        "air purifier replacement filter private label",
+        "replacement HEPA filter supplier",
+        "air purifier filter subscription OEM",
+        "private label HEPA filter packaging",
+        "air purifier filter refill program"
+      ],
+      "url": "/solutions/replacement-filter-private-label-program.html"
+    },
+    "Sample / RFQ Immediate Conversion Intent": {
+      "priority": "P0",
+      "keywords": [
+        "air purifier sample order China",
+        "air purifier OEM RFQ",
+        "air purifier supplier quotation",
+        "air purifier factory sample request",
+        "air purifier bulk order quote"
+      ],
+      "url": "/solutions/air-purifier-sample-order-rfq.html"
+    }
+  }
+}

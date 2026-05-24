@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="t d">
+      <title id="t">Tabletop</title><desc id="d">Desktop · OEM Ready</desc>
+      <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0f9ff"/><stop offset=".55" stop-color="#e0f2fe"/><stop offset="1" stop-color="#f8fafc"/></linearGradient></defs>
+      <rect width="900" height="640" rx="36" fill="url(#bg)"/>
+        <circle cx="680" cy="150" r="180" fill="#e0f2fe" opacity=".7"/>
+        <circle cx="200" cy="500" r="210" fill="#dbeafe" opacity=".7"/>
+        <path d="M120 210 C250 130 370 170 500 120 C620 74 760 90 840 42" fill="none" stroke="#7dd3fc" stroke-width="18" stroke-linecap="round" opacity=".26"/>
+        <path d="M95 300 C250 220 390 265 530 210 C650 160 760 178 835 135" fill="none" stroke="#0ea5e9" stroke-width="6" stroke-linecap="round" opacity=".42"/>
+        <g transform="translate(335 120)">
+          <rect x="0" y="0" width="260" height="410" rx="48" fill="#ffffff" stroke="#bde7fb" stroke-width="4"/>
+          <ellipse cx="130" cy="85" rx="72" ry="36" fill="#e0f2fe" stroke="#9bdcf8" stroke-width="3"/>
+          <rect x="54" y="170" width="152" height="128" rx="24" fill="#f0f9ff" stroke="#c7e9fa"/>
+          <g opacity=".78"><line x1="82" y1="190" x2="178" y2="190" stroke="#0ea5e9" stroke-width="5" stroke-linecap="round" opacity=".38"/><line x1="82" y1="210" x2="178" y2="210" stroke="#0ea5e9" stroke-width="5" stroke-linecap="round" opacity=".38"/><line x1="82" y1="230" x2="178" y2="230" stroke="#0ea5e9" stroke-width="5" stroke-linecap="round" opacity=".38"/><line x1="82" y1="250" x2="178" y2="250" stroke="#0ea5e9" stroke-width="5" stroke-linecap="round" opacity=".38"/><line x1="82" y1="270" x2="178" y2="270" stroke="#0ea5e9" stroke-width="5" stroke-linecap="round" opacity=".38"/></g>
+          <circle cx="130" cy="342" r="26" fill="#0ea5e9" opacity=".9"/><circle cx="130" cy="342" r="11" fill="#fff" opacity=".95"/>
+        </g>
+      <rect x="36" y="36" width="255" height="82" rx="20" fill="#ffffff" opacity=".86"/><text x="64" y="72" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#063056">Tabletop</text><text x="64" y="99" font-family="Arial, sans-serif" font-size="16" fill="#2d5278">Desktop · OEM Ready</text>
+    </svg>

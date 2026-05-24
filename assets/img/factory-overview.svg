@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="t d">
+      <title id="t">Foshan Factory</title><desc id="d">25,000 m² production facility</desc>
+      <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0f9ff"/><stop offset=".55" stop-color="#e0f2fe"/><stop offset="1" stop-color="#f8fafc"/></linearGradient></defs>
+      <rect width="900" height="640" rx="36" fill="url(#bg)"/><rect x="110" y="220" width="680" height="260" rx="22" fill="#fff" stroke="#bde7fb" stroke-width="4"/>
+        <rect x="160" y="160" width="210" height="150" rx="18" fill="#dbeafe" stroke="#7dd3fc"/><rect x="390" y="130" width="330" height="180" rx="18" fill="#e0f2fe" stroke="#7dd3fc"/>
+        <g fill="#0ea5e9" opacity=".72"><rect x="160" y="250" width="42" height="62" rx="6"/><rect x="228" y="250" width="42" height="62" rx="6"/><rect x="296" y="250" width="42" height="62" rx="6"/><rect x="364" y="250" width="42" height="62" rx="6"/><rect x="432" y="250" width="42" height="62" rx="6"/><rect x="500" y="250" width="42" height="62" rx="6"/><rect x="568" y="250" width="42" height="62" rx="6"/><rect x="636" y="250" width="42" height="62" rx="6"/></g>
+        <path d="M120 480 H785" stroke="#0b3d6e" stroke-width="10" stroke-linecap="round" opacity=".22"/><path d="M170 345 H720" stroke="#93c5fd" stroke-width="20" stroke-linecap="round" opacity=".55"/>
+        <g transform="translate(620 335)"><rect width="86" height="90" rx="12" fill="#fff" stroke="#bde7fb"/><circle cx="43" cy="30" r="17" fill="#0ea5e9"/><rect x="22" y="58" width="42" height="12" rx="6" fill="#dbeafe"/></g>
+      <rect x="36" y="36" width="255" height="82" rx="20" fill="#ffffff" opacity=".86"/><text x="64" y="72" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#063056">Foshan Factory</text><text x="64" y="99" font-family="Arial, sans-serif" font-size="16" fill="#2d5278">25,000 m² production facility</text>
+    </svg>
